@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\InnowiseProjectFilm.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InnowiseProjectFilm.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\-min2.jpg",
+      "PackagePath": "staticwebassets\\css\\-min2.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\0012d8ae8d96e027459e36e7e85dc7b67fe34505dda7a174133abdb4e163d613fa0dc59be4b8bb27047b264d66e2145ee851cda9becc2af1aa2369_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\0012d8ae8d96e027459e36e7e85dc7b67fe34505dda7a174133abdb4e163d613fa0dc59be4b8bb27047b264d66e2145ee851cda9becc2af1aa2369_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\15f2f1dfa9b81b0638c03ab1db1f7da59891f1120e87d02e220b6a4b5279fb62b2a229b265ecbfcb3f0db85a200ab3a8a5b58521b5616187cb4ba3_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\15f2f1dfa9b81b0638c03ab1db1f7da59891f1120e87d02e220b6a4b5279fb62b2a229b265ecbfcb3f0db85a200ab3a8a5b58521b5616187cb4ba3_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\22cc4d82eafc318204269571395dc0ad1584703f2e31e11daa74adc4696d52cf815dc1328da248d5532f8dcc0ef3b35c4049badb46fb3f528bff7e_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\22cc4d82eafc318204269571395dc0ad1584703f2e31e11daa74adc4696d52cf815dc1328da248d5532f8dcc0ef3b35c4049badb46fb3f528bff7e_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\2c79d8bc59301aa192a31c540bf021aaaad242c76f56e66c58dfd439cfec7ab0ccad0e047e9e30459f0c37b9fe050d0e1e71cc6e8f9300e13c44f7_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\2c79d8bc59301aa192a31c540bf021aaaad242c76f56e66c58dfd439cfec7ab0ccad0e047e9e30459f0c37b9fe050d0e1e71cc6e8f9300e13c44f7_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\3454.jpg",
+      "PackagePath": "staticwebassets\\css\\3454.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\35634.jpg",
+      "PackagePath": "staticwebassets\\css\\35634.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\40631a41c67b726878eb106970f2ea53f087365219a1a12c95e365f25ad5505acc05f8ed9a66209d0ebf28d8af6d3becd3641492a260e22bf740bf_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\40631a41c67b726878eb106970f2ea53f087365219a1a12c95e365f25ad5505acc05f8ed9a66209d0ebf28d8af6d3becd3641492a260e22bf740bf_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\54.jpg",
+      "PackagePath": "staticwebassets\\css\\54.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\553566.jpg",
+      "PackagePath": "staticwebassets\\css\\553566.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\9ac38cfccae60fdf4decafab55a417a3237d4fe9fbbc5fe5b15d7ee86552b606d97a83efe3fbb22fe473509edf779878334b18ada96dc3f4db3129_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\9ac38cfccae60fdf4decafab55a417a3237d4fe9fbbc5fe5b15d7ee86552b606d97a83efe3fbb22fe473509edf779878334b18ada96dc3f4db3129_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\AddComment1.css",
+      "PackagePath": "staticwebassets\\css\\AddComment1.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\AddComment2.css",
+      "PackagePath": "staticwebassets\\css\\AddComment2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Admin2.css",
+      "PackagePath": "staticwebassets\\css\\Admin2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Comment1.css",
+      "PackagePath": "staticwebassets\\css\\Comment1.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Comment2.css",
+      "PackagePath": "staticwebassets\\css\\Comment2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Course_main2.css",
+      "PackagePath": "staticwebassets\\css\\Course_main2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Course_main3.css",
+      "PackagePath": "staticwebassets\\css\\Course_main3.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Course_offline.css",
+      "PackagePath": "staticwebassets\\css\\Course_offline.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Course_offline2.css",
+      "PackagePath": "staticwebassets\\css\\Course_offline2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Sharp.css",
+      "PackagePath": "staticwebassets\\css\\Sharp.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Sharp2.css",
+      "PackagePath": "staticwebassets\\css\\Sharp2.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\Untitled-134.jpg",
+      "PackagePath": "staticwebassets\\css\\Untitled-134.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\bck.jpg",
+      "PackagePath": "staticwebassets\\css\\bck.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\bck1.jpg",
+      "PackagePath": "staticwebassets\\css\\bck1.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\companies.png",
+      "PackagePath": "staticwebassets\\css\\companies.png"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\e34.jpg",
+      "PackagePath": "staticwebassets\\css\\e34.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\f0b935344433d8773df11298d8c8fec2b523cb605ae18e98f6a05576ea233c694ae502bdd1cc03754ea4328aa2e34177d620f0af74d8586bb10948_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\f0b935344433d8773df11298d8c8fec2b523cb605ae18e98f6a05576ea233c694ae502bdd1cc03754ea4328aa2e34177d620f0af74d8586bb10948_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\f3b7fae9e83ade27d7269e7947b985ccddee9f5ebf096571514e6976acec9a6e1a52c3591295ae15ab3a2685c643dfac62c35742d87c1f58ea9ffe_1280.jpg",
+      "PackagePath": "staticwebassets\\css\\f3b7fae9e83ade27d7269e7947b985ccddee9f5ebf096571514e6976acec9a6e1a52c3591295ae15ab3a2685c643dfac62c35742d87c1f58ea9ffe_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\film.css",
+      "PackagePath": "staticwebassets\\css\\film.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\film1.css",
+      "PackagePath": "staticwebassets\\css\\film1.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\fon.jpg",
+      "PackagePath": "staticwebassets\\css\\fon.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\fon3.jpg",
+      "PackagePath": "staticwebassets\\css\\fon3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\fonforoff.jpg",
+      "PackagePath": "staticwebassets\\css\\fonforoff.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\forinst.jpg",
+      "PackagePath": "staticwebassets\\css\\forinst.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\ggg-min.jpg",
+      "PackagePath": "staticwebassets\\css\\ggg-min.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\jj.jpg",
+      "PackagePath": "staticwebassets\\css\\jj.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\main.jpg",
+      "PackagePath": "staticwebassets\\css\\main.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\main2.jpg",
+      "PackagePath": "staticwebassets\\css\\main2.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\main3.jpg",
+      "PackagePath": "staticwebassets\\css\\main3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-christina-morillo-1181742.jpg",
+      "PackagePath": "staticwebassets\\css\\pexels-christina-morillo-1181742.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-photo-1181424.jpeg",
+      "PackagePath": "staticwebassets\\css\\pexels-photo-1181424.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-photo-218863.jpeg",
+      "PackagePath": "staticwebassets\\css\\pexels-photo-218863.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-photo-2698465.jpeg",
+      "PackagePath": "staticwebassets\\css\\pexels-photo-2698465.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-photo-733500copy.jpg",
+      "PackagePath": "staticwebassets\\css\\pexels-photo-733500copy.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\pexels-samad-ismayilov-804009.jpg",
+      "PackagePath": "staticwebassets\\css\\pexels-samad-ismayilov-804009.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\rt34.jpg",
+      "PackagePath": "staticwebassets\\css\\rt34.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\rt43.jpg",
+      "PackagePath": "staticwebassets\\css\\rt43.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\sad23.jpg",
+      "PackagePath": "staticwebassets\\css\\sad23.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\sharp15.jpg",
+      "PackagePath": "staticwebassets\\css\\sharp15.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\sharp3.jpg",
+      "PackagePath": "staticwebassets\\css\\sharp3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\sharp9.jpg",
+      "PackagePath": "staticwebassets\\css\\sharp9.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\css\\ww.jpg",
+      "PackagePath": "staticwebassets\\css\\ww.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\-min2.jpg",
+      "PackagePath": "staticwebassets\\img\\-min2.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\0012d8ae8d96e027459e36e7e85dc7b67fe34505dda7a174133abdb4e163d613fa0dc59be4b8bb27047b264d66e2145ee851cda9becc2af1aa2369_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\0012d8ae8d96e027459e36e7e85dc7b67fe34505dda7a174133abdb4e163d613fa0dc59be4b8bb27047b264d66e2145ee851cda9becc2af1aa2369_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\15f2f1dfa9b81b0638c03ab1db1f7da59891f1120e87d02e220b6a4b5279fb62b2a229b265ecbfcb3f0db85a200ab3a8a5b58521b5616187cb4ba3_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\15f2f1dfa9b81b0638c03ab1db1f7da59891f1120e87d02e220b6a4b5279fb62b2a229b265ecbfcb3f0db85a200ab3a8a5b58521b5616187cb4ba3_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\2c79d8bc59301aa192a31c540bf021aaaad242c76f56e66c58dfd439cfec7ab0ccad0e047e9e30459f0c37b9fe050d0e1e71cc6e8f9300e13c44f7_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\2c79d8bc59301aa192a31c540bf021aaaad242c76f56e66c58dfd439cfec7ab0ccad0e047e9e30459f0c37b9fe050d0e1e71cc6e8f9300e13c44f7_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\3454.jpg",
+      "PackagePath": "staticwebassets\\img\\3454.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\35634.jpg",
+      "PackagePath": "staticwebassets\\img\\35634.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\40631a41c67b726878eb106970f2ea53f087365219a1a12c95e365f25ad5505acc05f8ed9a66209d0ebf28d8af6d3becd3641492a260e22bf740bf_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\40631a41c67b726878eb106970f2ea53f087365219a1a12c95e365f25ad5505acc05f8ed9a66209d0ebf28d8af6d3becd3641492a260e22bf740bf_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\54.jpg",
+      "PackagePath": "staticwebassets\\img\\54.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\553566.jpg",
+      "PackagePath": "staticwebassets\\img\\553566.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\9ac38cfccae60fdf4decafab55a417a3237d4fe9fbbc5fe5b15d7ee86552b606d97a83efe3fbb22fe473509edf779878334b18ada96dc3f4db3129_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\9ac38cfccae60fdf4decafab55a417a3237d4fe9fbbc5fe5b15d7ee86552b606d97a83efe3fbb22fe473509edf779878334b18ada96dc3f4db3129_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\Untitled-134.jpg",
+      "PackagePath": "staticwebassets\\img\\Untitled-134.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\bck.jpg",
+      "PackagePath": "staticwebassets\\img\\bck.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\bck1.jpg",
+      "PackagePath": "staticwebassets\\img\\bck1.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\companies.png",
+      "PackagePath": "staticwebassets\\img\\companies.png"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\e34.jpg",
+      "PackagePath": "staticwebassets\\img\\e34.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\f0b935344433d8773df11298d8c8fec2b523cb605ae18e98f6a05576ea233c694ae502bdd1cc03754ea4328aa2e34177d620f0af74d8586bb10948_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\f0b935344433d8773df11298d8c8fec2b523cb605ae18e98f6a05576ea233c694ae502bdd1cc03754ea4328aa2e34177d620f0af74d8586bb10948_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\f3b7fae9e83ade27d7269e7947b985ccddee9f5ebf096571514e6976acec9a6e1a52c3591295ae15ab3a2685c643dfac62c35742d87c1f58ea9ffe_1280.jpg",
+      "PackagePath": "staticwebassets\\img\\f3b7fae9e83ade27d7269e7947b985ccddee9f5ebf096571514e6976acec9a6e1a52c3591295ae15ab3a2685c643dfac62c35742d87c1f58ea9ffe_1280.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\fon.jpg",
+      "PackagePath": "staticwebassets\\img\\fon.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\fon3.jpg",
+      "PackagePath": "staticwebassets\\img\\fon3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\fonforoff.jpg",
+      "PackagePath": "staticwebassets\\img\\fonforoff.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\forinst.jpg",
+      "PackagePath": "staticwebassets\\img\\forinst.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\ggg-min.jpg",
+      "PackagePath": "staticwebassets\\img\\ggg-min.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\jj.jpg",
+      "PackagePath": "staticwebassets\\img\\jj.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\logotip.png",
+      "PackagePath": "staticwebassets\\img\\logotip.png"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\main.jpg",
+      "PackagePath": "staticwebassets\\img\\main.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\main2.jpg",
+      "PackagePath": "staticwebassets\\img\\main2.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\main3.jpg",
+      "PackagePath": "staticwebassets\\img\\main3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-christina-morillo-1181742.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-christina-morillo-1181742.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-photo-1181424.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-1181424.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-photo-218863.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-218863.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-photo-2698465.jpeg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-2698465.jpeg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-photo-733500copy.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-photo-733500copy.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\pexels-samad-ismayilov-804009.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-samad-ismayilov-804009.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\rt34.jpg",
+      "PackagePath": "staticwebassets\\img\\rt34.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\rt43.jpg",
+      "PackagePath": "staticwebassets\\img\\rt43.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\sad23.jpg",
+      "PackagePath": "staticwebassets\\img\\sad23.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\sharp15.jpg",
+      "PackagePath": "staticwebassets\\img\\sharp15.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\sharp3.jpg",
+      "PackagePath": "staticwebassets\\img\\sharp3.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\sharp9.jpg",
+      "PackagePath": "staticwebassets\\img\\sharp9.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\img\\ww.jpg",
+      "PackagePath": "staticwebassets\\img\\ww.jpg"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TeachMeSkills\\Repo\\Lab4_TA\\InnowiseProjectFilm\\InnowiseProjectFilm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.InnowiseProjectFilm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.InnowiseProjectFilm.props",
+      "PackagePath": "build\\InnowiseProjectFilm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.InnowiseProjectFilm.props",
+      "PackagePath": "buildMultiTargeting\\InnowiseProjectFilm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.InnowiseProjectFilm.props",
+      "PackagePath": "buildTransitive\\InnowiseProjectFilm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

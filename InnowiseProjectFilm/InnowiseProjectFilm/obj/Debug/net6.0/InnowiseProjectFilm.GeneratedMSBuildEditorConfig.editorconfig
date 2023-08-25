@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InnowiseProjectFilm
+build_property.RootNamespace = InnowiseProjectFilm
+build_property.ProjectDir = D:\TeachMeSkills\Repo\Lab4_TA\InnowiseProjectFilm\InnowiseProjectFilm\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\TeachMeSkills\Repo\Lab4_TA\InnowiseProjectFilm\InnowiseProjectFilm
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/AddFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRGaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/Comment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/DelComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/DelFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxGaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/DelQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxRdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/Films.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaWxtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Home/ShablonCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaGFibG9uQ291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TeachMeSkills/Repo/Lab4_TA/InnowiseProjectFilm/InnowiseProjectFilm/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kem4w9gjkk
